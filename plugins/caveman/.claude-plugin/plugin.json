@@ -1,0 +1,10 @@
+{
+  "name": "caveman",
+  "version": "2.7.0-cowork.1",
+  "description": "Cowork-compatible Caveman. Shortens prose while preserving technical terms, code, commands, errors, and required detail.",
+  "author": {
+    "name": "Julius Brussee",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  "skills": "./skills/"
+}

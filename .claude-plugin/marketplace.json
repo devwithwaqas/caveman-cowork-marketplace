@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "caveman-cowork",
+  "description": "Cowork-compatible Caveman plugin distribution.",
+  "owner": {
+    "name": "Julius Brussee",
+    "url": "https://github.com/JuliusBrussee/caveman"
+  },
+  "plugins": [
+    {
+      "name": "caveman",
+      "description": "Ultra-compressed communication mode with Caveman skills and Cavecrew agents.",
+      "source": "./plugins/caveman",
+      "category": "productivity"
+    }
+  ]
+}
